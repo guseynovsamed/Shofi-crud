@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{14618CD7-AC08-4DF4-B44B-A67ED8D32364}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Shofyi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Shofyi/Areas/Admin/Controllers/CategoryController.cs">
+    <Files>
+      <File FileName="Shofyi/Views/Home/Index.cshtml" Line="130" Column="1" />
+      <File FileName="Shofyi/Controllers/HomeController.cs" Line="24" Column="15" />
+      <File FileName="Shofyi/Program.cs" />
+      <File FileName="Shofyi/Data/AppDbContext.cs" Line="40" Column="15" />
+      <File FileName="Shofyi/Views/_ViewImports.cshtml" />
+      <File FileName="Shofyi/ViewModels/Categories/CategoryVM.cs" />
+      <File FileName="Shofyi/ViewModels/HomeVM.cs" Line="12" Column="1" />
+      <File FileName="Shofyi/Services/CategoryService.cs" Line="28" Column="10" />
+      <File FileName="Shofyi/Areas/Admin/Views/Category/Detail.cshtml" Line="9" Column="15" />
+      <File FileName="Shofyi/Areas/Admin/Views/Category/Create.cshtml" Line="17" Column="7" />
+      <File FileName="Shofyi/ViewModels/Categories/CategoryDetailVM.cs" Line="8" Column="1" />
+      <File FileName="Shofyi/Areas/Admin/Controllers/CategoryController.cs" Line="144" Column="10" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Shofyi" expanded="True">
+            <Node name="Shofyi">
+              <Node name="Areas" expanded="True">
+                <Node name="Admin" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="CategoryController.cs" selected="True" />
+                  </Node>
+                  <Node name="Views" expanded="True">
+                    <Node name="Category" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="ViewModels" expanded="True">
+                <Node name="Categories" expanded="True" />
+              </Node>
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="Shofyi" expanded="True">
+            <Node name="Shofyi" expanded="True">
+              <Node name="Shofyi" expanded="True">
+                <Node name="Shofyi.Areas.Admin.Views.Category.Areas_Admin_Views_Category_Create" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
